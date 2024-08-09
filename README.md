@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Project-02
+Catering website built in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This was a website built to showcase my technical skills, web design skills.
 
-## Available Scripts
+ ## Project timeline and technologies used
+Build a React website in 1 week to showcase the following:
 
-In the project directory, you can run:
+  - My technical skill set
+  - My web design skill set
+  - My projects
+    
+### Technologies Used
+  - HTML5
+  - CSS
+  - JAVASCRIPT
+  - REACT
 
-### `npm start`
+## PREVIEW OF MY WEBSITE
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# MasalaMingle: Catering Website
+Welcome to MasalaMingle, a catering website that brings people together through the universal language of food.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About Us
+MasalaMingle is a premier catering destination that blends traditional Indian flavors with modern twists to create an unforgettable dining experience. Our mission is to provide exceptional catering services that exceed your expectations.
 
-### `npm test`
+## Features
+- Authentic Indian Cuisine: Indulge in our carefully crafted menu, featuring a range of authentic Indian dishes.
+- Customized Catering: We cater to diverse tastes and dietary requirements, including vegetarian, vegan, gluten-free, and more.
+- Exceptional Service: Our dedicated team will work closely with you to understand your vision and preferences, guaranteeing a seamless and stress-free experience.
+## Services
+- Corporate Events: Impress your clients and colleagues with our customized catering solutions for meetings, conferences, and parties.
+- Weddings and Celebrations: Let us help you create unforgettable memories with our bespoke wedding catering services, tailored to your unique style and preferences.
+- Social Gatherings: From intimate dinner parties to large-scale events, we'll take care of the food, so you can focus on the fun!
+### Home page
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/adf82b62-1e54-44fc-a363-ce05ca0aa7d5">
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/1f31121f-ea51-4ae1-be64-7e3a3f6e2f86">
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/96e0d42b-a647-4ab7-9338-173475feb298">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Signup page
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/201bae3c-6057-4f12-8863-2ef9ec8e1191">
 
-### `npm run build`
+### Menu page
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/5bcdae56-6b40-4aa8-972f-6a370e1c2bcb">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Profile Page
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/a297da6f-436f-435d-b099-7702979a3fe8">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
